@@ -1,4 +1,4 @@
-# Image_segmentation_kreeda_labs
+# Image_segmentation
 Data Collection:
 Data can be found from link below.
 https://www.kaggle.com/datasets/jesperdramsch/siim-acr-pneumothorax-segmentation-data
